@@ -1,7 +1,7 @@
 # parcelat
 
 ```
-
+P-72217024-02096-4 
 02096-4
 1079
 Arë (6)
@@ -41,6 +41,8 @@ Rr."Ahmet Haliti"-Greme-Ferizaj
 ```
 # dyfishet
 ```
+
+3,12
 
 ```
 
